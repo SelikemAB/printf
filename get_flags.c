@@ -1,4 +1,3 @@
-get_flags.c
 
 
 #include "main.h"
